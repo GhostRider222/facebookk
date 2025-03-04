@@ -1,0 +1,125 @@
+main{display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 550px;}
+
+    header{background: #1877F2;
+        margin-left: -10px;
+        margin-right: -20px;
+        margin-top: -8px;
+        font-size: 23px;
+        padding: 5px 0px 5px 20px;
+        color: white;}
+
+    .create{margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;}
+
+
+    .p2{font-size: 13px;
+        color: rgb(112, 115, 117);}
+        .p3{font-size: 13px;
+            color: rgb(112, 115, 117);}
+            .p4{font-size: 13px;
+                color: rgb(112, 115, 117);}
+
+                .a{text-decoration: none;}
+                .aa{text-decoration: none;
+                    margin-left: 137px;
+                    color:#006eff ;}
+
+                h2{text-align: center;}
+                .p1{text-align: center;
+                    margin-top: -16px;
+                    color: rgb(112, 115, 117);}
+
+                    .in input{width: 200px;
+                        height: 39px;
+                        background: transparent;
+                        border: 1px solid rgb(112, 115, 117);
+                        border-radius: 3px;
+                        margin-bottom: -5px;}
+
+                        input{padding-left: 7px;
+                            font-size: 17px;}
+
+                            .firs{margin-left: 28px;}
+
+                            .second{margin-top: 20px;}
+
+                            .inn input{width: 440px;
+                                height: 43px;
+                                background: transparent;
+                                border: 1px solid rgb(112, 115, 117);
+                                border-radius: 3px;
+                                margin-bottom: -5px;
+                                margin-top: 15px;}
+
+                                button{margin-left: 120px;
+                                    margin-bottom: 10px;
+                                    margin-top: 10px;
+                                    width: 200px;
+                                    height: 45px;
+                                    cursor: pointer;
+                                    background-color: rgb(0, 255, 0);
+                                    border: none;
+                                    border-radius: 3px;
+                                    font-size: 20px;
+                                    font-weight: bold;
+                                    color: white;}
+
+                                    button:hover{box-shadow: 0px 0px 5px rgb(0, 255, 0);}
+
+                                    .aa:hover{text-decoration: underline;}
+                                    .a:hover{text-decoration: underline;}
+
+                                    .create{border: 1px solid black;
+                                        padding:0px 20px 20px 20px;
+                                        box-shadow: 0px 0px 5px black;
+                                        border-radius: 5px;
+                                        margin-top: 100px;}
+
+                                        .sec{margin-top: -10px;}
+
+                                        .s{height: 30px;
+                                            width: 100px;
+                                            padding-left: 5px;
+                                            border-radius: 5px;
+                                            }
+
+                                            .t{width: 100px;
+                                                height: 35px;
+                                                padding-left: 7px;
+                                                margin-left: 34px;
+                                                border-radius: 5px;
+                                                margin-left: 70px;}
+
+                                                .u{width: 100px;
+                                                    height: 30px;
+                                                    padding-left: 7px;
+                                                    margin-left: 35px;
+                                                    border-radius: 5px;
+                                                    margin-left: 70px;}
+
+                                                    .gender{display: flex;
+                                                        margin-top: -30px;
+                                                        margin-bottom: -20px;}
+
+                                                    .m{border: 1px solid black;
+                                                        padding: 5px 25px 10px 8px;
+                                                        margin-right: 30px;
+                                                        border-radius: 5px;
+                                                        }
+                                                        .f{border: 1px solid black;
+                                                            padding: 5px 20px 10px 8px;
+                                                            margin-right: 60px;
+                                                            margin-left: 50px;border-radius: 5px;
+                                                            }
+                                                            .o{border: 1px solid black;
+                                                                padding: 5px 8px 8px 8px;
+                                                                margin-right: -40px;
+                                                                margin-left: 14px;border-radius: 5px;
+                                                                }
+
+                                                    
+    
